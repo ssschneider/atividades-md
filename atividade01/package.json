@@ -1,0 +1,12 @@
+{
+	"name": "atividade01",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"setlx": "setlX /home/sarah/Projetos/Faculdade/md/atividade01/exercicio11.stlx"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}

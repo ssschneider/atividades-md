@@ -1,0 +1,10 @@
+A := { 1.. 4};
+B := { 1, 3, 5};
+C := { 2, -2, sqrt(3), - sqrt(3)};
+
+print("A - B = $ A - B $");
+print("B - A = $ B - A $");
+print("A - C = $ A - C $");
+print("C - A = $ C - A $");
+print("B - C = $ B - C $");
+print("C - B = $ C - B $");

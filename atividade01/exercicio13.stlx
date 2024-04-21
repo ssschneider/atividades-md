@@ -1,0 +1,15 @@
+A := { {} };
+B := { {{}}, {}};
+C := { {{}}, {{}, {{}}}, {} };
+
+print("#A = $ #A $");
+print("#B = $ #B $");
+print("#C = $  #C $");
+
+print("A elemento de B = $ A in B $");
+print("A elemento de C = $ A in C $");
+print("B elemento de C = $ B in C $");
+
+print ("Subconjuntos de A, do qual nenhum dos conjuntos é subconjunto = $ 2 ** A $");
+print ("Subconjuntos de B, do qual A é subconjunto = $ 2 ** B $");
+print ("Subconjuntos de C, do qual A e B são subconjuntos = $ 2 ** C $");

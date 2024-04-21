@@ -1,0 +1,6 @@
+A := {1 .. 4};
+B := {2 .. 5};
+C := {5 .. 9};
+
+print("A e C são disjuntos se (A+C) - C = $ (A+C) - C $");
+print("A e B não são disjuntos se (A+B) - B = $ (A+B) - B $");

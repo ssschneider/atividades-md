@@ -1,0 +1,10 @@
+A := {1, 2, 3, 4};
+B := {1, 2, 3, 4};
+C := {};
+D := {5, 6, 7, 8};
+E := {1, 2, 3};
+
+print("Diferença simétrica entre A e B = $A % B$");
+print("Diferença simétrica entre A e C = $A % C$");
+print("Diferença simétrica entre A e D = $A % D$");
+print("Diferença simétrica entre A e E = $A % E$");

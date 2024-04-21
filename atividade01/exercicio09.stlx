@@ -1,0 +1,9 @@
+A := {1 .. 4};
+B := {3, 5 .. 9};
+C := {2, 4 .. 10};
+
+print("Diferença simétrica: A % B = $A % B $");
+print("Diferença simétrica: B % A = $B % A $");
+
+print("Diferença simétrica: (A % B) % C = $ (A % B) % C $");
+print("Diferença simétrica: A % (B % C) = $ A % (B % C) $");

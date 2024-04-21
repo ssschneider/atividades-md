@@ -1,0 +1,13 @@
+A := {1, 3, 5};
+B:= {2, 4 , 6};
+I := 2 ** (A*B);
+P := 2 ** (A+B);
+
+print("Conjunto Potência(A) = $ 2 ** A $");
+print("Conjunto Potência(B) = $ 2 ** B $");
+print("Conjunto Potência (A*B) = $ I $");
+print("Conjunto Potência (A+B) = $ P $");
+print("A está inserido em Conjunto Potência (A+B) = $ A in P $");
+print("B está inserido em Conjunto Potência (A+B) = $ B in P $");
+print("Interseção A*B está inserido em Conjunto Potência (A+B) = $ I in P $");
+print("Os conjuntos A, B e Conjunto Potência(A*B) são subconjuntos do conjunto Conjunto Potência (A+B)");

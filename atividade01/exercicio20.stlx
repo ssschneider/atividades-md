@@ -1,0 +1,9 @@
+A := {1 .. 6};
+B := {"a", "b", "c", "d", "e"};
+p := #A;
+q := #B;
+
+print("O conjunto A tem $ p $ elementos.");
+print("O conjunto A tem $ q $ elementos.");
+print("O conjunto A x B tem $ #(A >< B) $ elementos, isto é, p * q.");
+print("Produto cartesiano A x B = $ (A >< B) $");

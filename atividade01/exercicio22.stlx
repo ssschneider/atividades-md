@@ -1,0 +1,10 @@
+A := {1, 2};
+B := {"a", "b", "c"};
+C := {1 .. 5};
+D := {};
+
+print(#A);
+print(#B);
+print(#C);
+print(#(A >< B >< C));
+print(#(A >< B >< C >< D));

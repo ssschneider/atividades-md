@@ -1,0 +1,4 @@
+print("Partições de {17} = $ 2 ** {17} $");
+print("Partições de {17, 18} = $ 2 ** {17, 18} $");
+print("Partições de {{17, 18}} = $ 2 ** {{17, 18}} $");
+print("Partições de {1, 2, 3, 4} = $ 2 ** {1, 2, 3, 4} $");

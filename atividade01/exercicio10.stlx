@@ -1,0 +1,8 @@
+A := {1 .. 10};
+B := {1, 3 .. 10};
+C:= {2, 4 .. 10};
+
+print("A interseção de A, B e C é: A * B * C = $ A*B*C $");
+print("A união de A, B e C é: A + B + C = $ A+B+C $");
+print("A diferença da união de A + B e C é: (A+B) - C = $ (A+B) - C $");
+print("A união das diferenças entre A e B, B e C e C e A é: (A - B) + (B - C) + (C - A) = $ (A - B) + (B - C) + (C - A) $");

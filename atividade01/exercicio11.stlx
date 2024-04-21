@@ -1,0 +1,15 @@
+A := {1 .. 10};
+B := {1, 3 .. 10};
+C:= {2, 4 .. 10};
+
+print("A - (A * B) = $ A - (A * B) $");
+print("A - B = $ A - B $");
+
+print("A + (B*C) = $ A + (B*C) $");
+print("(A+B) * (A + C) = $ (A+B) * (A + C) $");
+
+print("(A + B) - C = $ (A + B) - C $");
+print("(A - C) + (B - C) = $ (A - C) + (B - C) $");
+
+print("A + (B-C) = $ A + (B-C) $");
+print("(A + B) - (C -A) = $ (A + B) - (C -A) $");
