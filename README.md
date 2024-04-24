@@ -22,7 +22,7 @@ Para rodar o projeto localmente, basta cumprir as seguintes etapas:
 
 1. Baixar o interpretador de SetlX de acordo com o sistema operacional
    ``` 
-   (http://setlx.randoom.org/)[Interpretador SetlX]
+   http://setlx.randoom.org/
    ```
 2. Clonar o repositório
     ``` 
@@ -53,7 +53,7 @@ The activities proposed by the teacher must be developed in SetlX.
 > You can check out the activities by running it locally following these steps:
 1. Download the SetlX interpreter 
    ``` 
-   (http://setlx.randoom.org/)[Interpretador SetlX]
+   http://setlx.randoom.org/
    ```
 2. Clone the repository
     ``` 
